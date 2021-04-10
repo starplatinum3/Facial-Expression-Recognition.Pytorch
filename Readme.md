@@ -1,9 +1,12 @@
 # Facial-Expression-Recognition.Pytorch
 A CNN based pytorch implementation on facial expression recognition (FER2013 and CK+), achieving 73.112% (state-of-the-art) in FER2013 and 94.64% in CK+ dataset
 ### 2021年4月10日15:33:17 更新 
+文档：Facial-Expression-Recognition.Pytorc...
+链接：http://note.youdao.com/noteshare?id=0b97c224ba866d3cfc8911a3726cd33e&sub=9E9FD1BC60754F27A53085C55FDA737D
 ## 使用cpu ##
 根据一位大佬的修改，我把他的代码抄到visualize_cpu.py 里面了，于是用下面这句话运行
 python visualize_cpu.py --cpu
+这位大佬（LittleWat ）把代码改成可以cpu运行了
 
 ## Demos ##
 ![Image text](https://raw.githubusercontent.com/WuJie1010/Facial-Expression-Recognition.Pytorch/master/demo/1.png)
