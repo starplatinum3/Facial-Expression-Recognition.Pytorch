@@ -15,6 +15,8 @@ python visualize_cpu.py --cpu
 ![Image text](https://raw.githubusercontent.com/WuJie1010/Facial-Expression-Recognition.Pytorch/master/demo/2.png)
 
 ## Dependencies ##
+文档：运行 WuJie1010_Facial-Expression-Rec...
+链接：http://note.youdao.com/noteshare?id=dc290f5316d968af294bff094814c68b&sub=4D4656B3590B40F7921613D6E71EB700
 - Python 2.7
 - Pytorch >=0.2.0
 - h5py (Preprocessing)
