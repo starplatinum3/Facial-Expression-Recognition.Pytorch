@@ -5,7 +5,9 @@ A CNN based pytorch implementation on facial expression recognition (FER2013 and
 链接：http://note.youdao.com/noteshare?id=0b97c224ba866d3cfc8911a3726cd33e&sub=9E9FD1BC60754F27A53085C55FDA737D
 ## 使用cpu ##
 根据一位大佬的修改，我把他的代码抄到visualize_cpu.py 里面了，于是用下面这句话运行
+```bash
 python visualize_cpu.py --cpu
+```
 这位大佬（LittleWat ）把代码改成可以cpu运行了
 
 ## Demos ##
